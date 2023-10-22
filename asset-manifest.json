@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curso-react-platzi/static/css/main.816fcfc5.css",
+    "main.js": "/curso-react-platzi/static/js/main.496d3116.js",
+    "index.html": "/curso-react-platzi/index.html",
+    "static/media/delete.svg": "/curso-react-platzi/static/media/delete.2df968658f3a5a5e4e6bc3929bcb9ef8.svg",
+    "static/media/complete.svg": "/curso-react-platzi/static/media/complete.8b522babc550faf8863c748614d8dc6b.svg",
+    "main.816fcfc5.css.map": "/curso-react-platzi/static/css/main.816fcfc5.css.map",
+    "main.496d3116.js.map": "/curso-react-platzi/static/js/main.496d3116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.816fcfc5.css",
+    "static/js/main.496d3116.js"
+  ]
+}
